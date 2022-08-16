@@ -8,3 +8,7 @@ Through research, development and community building, we aim to create more econ
 ## Founder
 
 The Fair Crypto Foundation concept has been devised by @mrJackLevin, an open source technologist and an early Google Engineer (‘99-05) and developed by a small group of partners - professionals in computer science, communications, software and product development, marketing and investments. The Foundation's goal is to carry out its vision through education, organization and launched Blockchain Projects embodying the first principles of Crypto.
+
+## Links
+
+(Fair Crypto Foundation)[https://faircrypto.org]
