@@ -11,4 +11,4 @@ The Fair Crypto Foundation concept has been devised by @mrJackLevin, an open sou
 
 ## Links
 
-(Fair Crypto Foundation)[https://faircrypto.org]
+[Fair Crypto Foundation](https://faircrypto.org)
